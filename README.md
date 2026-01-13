@@ -442,3 +442,23 @@ Demonstrated at AI Tinkerers Holiday Science Fair, December 2024
 **Keep your positioning as clear on Day 365 as it was on Day 1.**
 
 *Built with KnowledgeForge 4.0 | Cognitive Science + AI + Real Business Problems*
+
+---
+
+## About SEMalytics
+
+This tool is part of the [SEMalytics](https://semalytics.com) research portfolio—applying cognitive science to make communications land.
+
+**The problem:** You know what you mean. Your audience doesn't always get it. This system quantifies the gap and shows you exactly where clarity breaks down.
+
+**Related Work:**
+- **Communications Optimization System (COS)** — Personality-aware content analysis for B2B sales and marketing
+- **KnowledgeForge** — The agent orchestration methodology powering this system
+
+[Learn more at SEMalytics →](https://semalytics.com)
+
+---
+
+<p align="center">
+  <sub>Built by <a href="https://semalytics.com">SEMalytics</a> · Making messages land.</sub>
+</p>
